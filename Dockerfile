@@ -1,7 +1,7 @@
 # syntax=docker/dockerfile:1
 
 FROM node:18-alpine
-LABEL maintainer "imanmeet24@gmail.com"
+LABEL maintainer "angrejwarraich1313@gmail.com"
 LABEL build_date "2024-02-06"
 WORKDIR /app
 COPY . .
